@@ -1,0 +1,17 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/VivadoProject/sc-cpu/sc-cpu.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sim_1/new/testbench.v,1688061474,verilog,,,,testbench,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/alu.v,1688020652,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/cu.v,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,alu,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/cu.v,1688042226,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/dm.v,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,cu,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/dm.v,1688033693,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/im.v,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,dm,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/im.v,1688019243,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/imm_gen.v,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,im,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/imm_gen.v,1687958422,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/mux.v,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,imm_gen,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,1688039479,verilog,,,,,,,,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/mux.v,1687959675,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/npc.v,,alu_mux;reg_mux,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/npc.v,1688014559,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/pc.v,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,npc,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/pc.v,1687937385,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/rf.v,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,pc,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/rf.v,1688054635,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/top_cpu.v,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,rf,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
+D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/top_cpu.v,1688042743,verilog,,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sim_1/new/testbench.v,D:/VivadoProject/sc-cpu/sc-cpu.srcs/sources_1/new/macro.vh,top_cpu,,,../../../../sc-cpu.srcs/sources_1/new,,,,,
