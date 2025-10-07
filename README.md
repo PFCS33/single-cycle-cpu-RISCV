@@ -1,20 +1,26 @@
-# ⚙RISCV - single cycle CPU
+# ⚙ RISC-V Single Cycle CPU
 
-## 环境与工具说明
+## Project Introduction
 
-- Verilog实现
-- Vivado进行仿真测试
-- RARS 进行RISCV汇编翻译，生成机器码在CPU上运行
+This is a Year 4 Summer Term project implementing a single-cycle CPU based on the RISC-V instruction set architecture. The CPU is designed using Verilog HDL and demonstrates fundamental computer architecture concepts including instruction fetch, decode, execute, and memory access operations in a single clock cycle.
 
-## 效果
+The project successfully implements core RISC-V instructions and validates the design through comprehensive behavioral simulation testing, including a complete bubble sort algorithm execution.
 
-- 成功实现指令： add, addi, sub, lw, sw, beq,blt, jal, ori
-  - 并通过行为仿真波形测试
+## Development Environment & Tools
 
-- 实现的数据通路图：
+- **Implementation**: Verilog HDL
+- **Simulation & Testing**: Xilinx Vivado
+- **Assembly**: RARS for translating RISC-V assembly code to machine code that runs on the CPU
 
-  ​	![demo](./img/demo.png)
+## Implementation Results
 
-- 完成对5个数的冒泡排序的行为仿真验证
+- **Successfully implemented instructions**: ADD, ADDI, SUB, LW, SW, BEQ, BLT, JAL, ORI
+  - All instructions verified through behavioral simulation waveform testing
 
-  ​	![demo2](./img/demo2.png)
+- **Implemented datapath diagram**:
+
+  ![demo](./img/demo.png)
+
+- **Behavioral simulation validation** of bubble sort algorithm for 5 numbers:
+
+  ![demo2](./img/demo2.png)
